@@ -1,0 +1,2 @@
+Inside one.txt
+A text file created inside input directory 
